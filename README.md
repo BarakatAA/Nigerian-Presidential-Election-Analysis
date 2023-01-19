@@ -1,5 +1,7 @@
 # Nigerian-Presidential-Election-Analysis
 
+This is analysis of Nigerian past elections starting from 1999 to 2019 to observe trends
+
 -------
 
 # Project Overview
