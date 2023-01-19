@@ -4,7 +4,7 @@
 
 # Project Overview
 
-In this project I analyze Nigerian Presidential elections to observe trends and voter behaviour starting from 1999 when Nigeria returned to Civilian rule to 2019. 
+In this project I analyzed the Nigerian Presidential elections to observe trends and voter behaviour starting from 1999 when Nigeria returned to Civilian rule to 2019.
 Elections are held every four years in the country so the analysis used data for the years 1999, 2003, 2007. 2011, 2015 and 2019.
 
 -------
