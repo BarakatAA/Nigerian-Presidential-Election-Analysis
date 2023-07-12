@@ -13,7 +13,7 @@ Elections are held every four years in the country so the analysis used data for
 
 # Data Sourcing and Cleaning
 
-Election data from past Nigerian elections were obtained from Kaggle and loaded into power query in power bi. The dataset which comprised election data from 1999 t0  2019 was merged into one single dataset and column's with disjointed names renamed. The dataset was checked for datatype and other errors before being loaded into power bi.
+Election data from past Nigerian elections were obtained from Kaggle and loaded into power query in power bi. The dataset was checked for datatype, missing values and other errors before being loaded into power bi.
 
 ------
 
